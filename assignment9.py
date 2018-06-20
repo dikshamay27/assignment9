@@ -19,7 +19,7 @@ class Student:
         self.roll=roll
     def show(self):
         print(self.name,self.roll)
-s1=Student("Bikram",6316506)
+s1=Student("diksha",6316017)
 s1.show()
 '''Ques 3. Create a Temprature class. Make two methods :
 1. convertFahrenheit - It will take celsius and will print it into Fahrenheit.
